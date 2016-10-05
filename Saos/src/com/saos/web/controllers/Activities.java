@@ -8,11 +8,13 @@ public class Activities {
 	
 	public Activities()
 	{
+		//
 	}
 	
 	public void add(String title, Date startDate, Date endDate, Student host, String location,
 			String description, double cost, int capacity)
 	{
+		//
 	}
 	
 	public Activity find(int id)
@@ -24,5 +26,4 @@ public class Activities {
 		}
 		return null;
 	}
-
 }
